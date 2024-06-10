@@ -103,7 +103,7 @@
     "@ledgerhq/hw-transport-webusb": "^4.56.0",
     "@mycrypto/ui": "^0.16.3",
     "@trezor/connect": "^9.2.1",
-    "@trezor/connect-web": "^9.2.1",
+    "@trezor/connect-web": "^9.2.3",
     "eth-scan": "^0.1.2",
     "hdkey": "^1.1.1",
     "polished": "^3.4.0",
