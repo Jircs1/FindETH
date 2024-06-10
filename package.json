@@ -115,7 +115,7 @@
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-saga": "^1.0.2",
-    "regenerator-runtime": "^0.13.2",
+    "regenerator-runtime": "^0.14.0",
     "rxjs": "^6.5.2",
     "styled-components": "^6.1.8",
     "typeface-lato": "^0.0.54",
